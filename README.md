@@ -14,8 +14,12 @@ Urban area has the lowest average fare per driver  $16.57 and average fare per r
 
 The table summary of this can be see below :
 
+https://github.com/ttan0408/PyBer_Analysis/blob/main/PyBer_summary_DataFrame.PNG
+
+Also , looking by weekly data the total fare of rural is the lowest one which indicate less driver, rides compare to urban and suburban city type. Plot of the total fare for each city by weekly are shown below :
 
 
 
 
-V. Isualize has given you and Omar a brand-new assignment. Using your Python skills and knowledge of Pandas, you’ll create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, you’ll create a multiple-line graph that shows the total weekly fares for each city type. Finally, you’ll submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+
+
