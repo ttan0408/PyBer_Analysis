@@ -18,7 +18,7 @@ https://github.com/ttan0408/PyBer_Analysis/blob/main/PyBer_summary_DataFrame.PNG
 
 Also , looking by weekly data the total fare of rural is the lowest one which indicate less driver, rides compare to urban and suburban city type. Plot of the total fare for each city by weekly are shown below :
 
-
+https://github.com/ttan0408/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png
 
 
 
